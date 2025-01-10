@@ -1,0 +1,9 @@
+{
+	"home": {
+		"question": "Você tem brio?"
+	},
+	"counter": {
+		"increment": "Mais",
+		"decrement": "Menos"
+	}
+}

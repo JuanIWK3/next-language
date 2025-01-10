@@ -1,0 +1,9 @@
+{
+	"home": {
+		"question": "Do you have Brio?"
+	},
+	"counter": {
+		"increment": "Zuwachs",
+		"decrement": "Dekrementieren"
+	}
+}
